@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/fitness/static/css/main.d5fea41d.chunk.css",
+    "main.js": "/fitness/static/js/main.ad47d102.chunk.js",
+    "main.js.map": "/fitness/static/js/main.ad47d102.chunk.js.map",
+    "runtime-main.js": "/fitness/static/js/runtime-main.64baa5b8.js",
+    "runtime-main.js.map": "/fitness/static/js/runtime-main.64baa5b8.js.map",
+    "static/css/2.11829350.chunk.css": "/fitness/static/css/2.11829350.chunk.css",
+    "static/js/2.e8599f03.chunk.js": "/fitness/static/js/2.e8599f03.chunk.js",
+    "static/js/2.e8599f03.chunk.js.map": "/fitness/static/js/2.e8599f03.chunk.js.map",
+    "static/js/3.e6086e2a.chunk.js": "/fitness/static/js/3.e6086e2a.chunk.js",
+    "static/js/3.e6086e2a.chunk.js.map": "/fitness/static/js/3.e6086e2a.chunk.js.map",
+    "index.html": "/fitness/index.html",
+    "precache-manifest.3feb60852d02329b36a5240a8a7e48c5.js": "/fitness/precache-manifest.3feb60852d02329b36a5240a8a7e48c5.js",
+    "service-worker.js": "/fitness/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/fitness/static/css/2.11829350.chunk.css.map",
+    "static/css/main.d5fea41d.chunk.css.map": "/fitness/static/css/main.d5fea41d.chunk.css.map",
+    "static/js/2.e8599f03.chunk.js.LICENSE.txt": "/fitness/static/js/2.e8599f03.chunk.js.LICENSE.txt",
+    "static/media/contact-bg.jpg": "/fitness/static/media/contact-bg.31cb05f3.jpg",
+    "static/media/cta-bg.jpg": "/fitness/static/media/cta-bg.f042c2ac.jpg",
+    "static/media/first-trainer.jpg": "/fitness/static/media/first-trainer.7c2ab25d.jpg",
+    "static/media/gym-video.mp4": "/fitness/static/media/gym-video.ae250877.mp4",
+    "static/media/schedule-bg.jpg": "/fitness/static/media/schedule-bg.02e36482.jpg",
+    "static/media/second-trainer.jpg": "/fitness/static/media/second-trainer.db6c1644.jpg",
+    "static/media/slide-01.jpg": "/fitness/static/media/slide-01.0a630762.jpg",
+    "static/media/third-trainer.jpg": "/fitness/static/media/third-trainer.81e56a6d.jpg",
+    "static/media/training-image-01.jpg": "/fitness/static/media/training-image-01.5a6c841c.jpg",
+    "static/media/training-image-02.jpg": "/fitness/static/media/training-image-02.a6ebee97.jpg",
+    "static/media/training-image-03.jpg": "/fitness/static/media/training-image-03.3d605f68.jpg",
+    "static/media/training-image-04.jpg": "/fitness/static/media/training-image-04.dd1df8f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64baa5b8.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e8599f03.chunk.js",
+    "static/css/main.d5fea41d.chunk.css",
+    "static/js/main.ad47d102.chunk.js"
+  ]
+}
