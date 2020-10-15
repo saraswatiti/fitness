@@ -4,6 +4,8 @@ import Video from '../Sections/MainBanner/Video';
 import ImgBanner from '../Sections/MainBanner/ImgBanner';
 import BannerCaption from '../Sections/MainBanner/BannerCaption';
 import Program from '../Sections/Program';
+import CallToAction from '../Sections/CallToAction';
+import FClassList from '../Sections/FClassList';
 
 /**
 * @author
@@ -26,6 +28,8 @@ const Homepage = (props) => {
                 </ImgBanner>)}
             </MainBanner>
             <Program />
+            <CallToAction ctabgImg="cta-bg.jpg" />
+            <FClassList />
         </Fragment>
     )
 
