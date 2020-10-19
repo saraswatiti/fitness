@@ -808,7 +808,7 @@ Our Classes
   line-height: 90px;
   border-bottom: none;
 }
-#tabs ul .ui-tabs-active a {
+#tabs ul a.active {
   color: #ed563b;
 }
 #tabs ul .ui-tabs-active span {
