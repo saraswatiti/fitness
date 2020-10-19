@@ -42,7 +42,7 @@ class TabSection extends Component {
                             </article>
                         </Tab>
                         <Tab isSelected={this.state.selected === 'Second Training Class'}>
-                            <article id='tabs-1'>
+                            <article id='tabs-2'>
                                 <img src={`${process.env.PUBLIC_URL}/assets/images/training-image-02.jpg`} alt="Second Training" />
                                 <h4>Second Training Class</h4>
                                 <p>Integer dapibus, est vel dapibus mattis, sem mauris luctus leo, ac pulvinar quam tortor a
@@ -50,6 +50,31 @@ class TabSection extends Component {
                                 nibh, ullamcorper at mattis non, rhoncus sed massa. Cras quis pulvinar eros. Orci varius
                                 natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                                 <div className="main-button">
+                                    <a href="#">View Schedule</a>
+                                </div>
+                            </article>
+                        </Tab>
+                        <Tab isSelected={this.state.selected === 'Third Training Class'}>
+                            <article id='tabs-3'>
+                                <img src={`${process.env.PUBLIC_URL}/assets/images/training-image-03.jpg`} alt="Third Training" />
+                                <h4>Third Training Class</h4>
+                                <p>Fusce laoreet malesuada rhoncus. Donec ultricies diam tortor, id auctor neque posuere sit
+                                amet. Aliquam pharetra, augue vel cursus porta, nisi tortor vulputate sapien, id
+                                scelerisque felis magna id felis. Proin neque metus, pellentesque pharetra semper vel,
+                                accumsan a neque.</p>
+                                <div class="main-button">
+                                    <a href="#">View Schedule</a>
+                                </div>
+                            </article>
+                        </Tab>
+                        <Tab isSelected={this.state.selected === 'Fourth Training Class'}>
+                            <article id='tabs-4'>
+                                <img src={`${process.env.PUBLIC_URL}/assets/images/training-image-04.jpg`} alt="Fourth Training" />
+                                <h4>Fourth Training Class</h4>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                                egestas. Aenean ultrices elementum odio ac tempus. Etiam eleifend orci lectus, eget
+                                venenatis ipsum commodo et.</p>
+                                <div class="main-button">
                                     <a href="#">View Schedule</a>
                                 </div>
                             </article>
