@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1086831b04564c7f27a6340b778532b",
+    "revision": "12e94f9cea44e097493ade3c984c3432",
     "url": "/fitness/index.html"
   },
   {
-    "revision": "9c2aee8e17e51ede3300",
+    "revision": "21198988dcf4a7a0ce65",
     "url": "/fitness/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "1db73b3867317d5c37ae",
-    "url": "/fitness/static/css/main.91da23e3.chunk.css"
+    "revision": "d82b73180d5188727e31",
+    "url": "/fitness/static/css/main.8dc253c3.chunk.css"
   },
   {
-    "revision": "9c2aee8e17e51ede3300",
-    "url": "/fitness/static/js/2.804e5340.chunk.js"
+    "revision": "21198988dcf4a7a0ce65",
+    "url": "/fitness/static/js/2.a72f97b8.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/fitness/static/js/2.804e5340.chunk.js.LICENSE.txt"
+    "url": "/fitness/static/js/2.a72f97b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5828247e566d9780fcdd",
-    "url": "/fitness/static/js/3.5e982cbb.chunk.js"
+    "revision": "a069915a22039dfd68e6",
+    "url": "/fitness/static/js/3.7fa6bcb4.chunk.js"
   },
   {
-    "revision": "1db73b3867317d5c37ae",
-    "url": "/fitness/static/js/main.e7b6d6be.chunk.js"
+    "revision": "475242a8ab787b301318",
+    "url": "/fitness/static/js/4.98bab038.chunk.js"
   },
   {
-    "revision": "1471837cc6dd83aa946e",
-    "url": "/fitness/static/js/runtime-main.f15e2f95.js"
+    "revision": "d82b73180d5188727e31",
+    "url": "/fitness/static/js/main.f5b11c13.chunk.js"
+  },
+  {
+    "revision": "4cbae2f0a377581bfac5",
+    "url": "/fitness/static/js/runtime-main.c2ad6533.js"
   },
   {
     "revision": "31cb05f3e1c4697812b2104049d21c55",
