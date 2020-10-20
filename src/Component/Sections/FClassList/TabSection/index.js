@@ -25,6 +25,7 @@ class TabSection extends Component {
                     <TabNav tabs={["First Training Class", "Second Training Class", "Third Training Class", "Fourth Training Class"]}
                         selected={this.state.selected} setSelected={this.setSelected}
                     />
+
                 </Col>
                 <Col md={8}>
                     <section className='tabs-content'>

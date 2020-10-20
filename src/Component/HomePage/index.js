@@ -6,6 +6,10 @@ import BannerCaption from '../Sections/MainBanner/BannerCaption';
 import Program from '../Sections/Program';
 import CallToAction from '../Sections/CallToAction';
 import FClassList from '../Sections/FClassList';
+import Schedule from '../Sections/Schedule';
+import Trainer from '../Sections/Trainer';
+import { FaContao } from 'react-icons/fa';
+import ContactUs from '../Sections/ContactUs';
 
 /**
 * @author
@@ -30,6 +34,9 @@ const Homepage = (props) => {
             <Program />
             <CallToAction ctabgImg="cta-bg.jpg" />
             <FClassList />
+            <Schedule Schedulebg="schedule-bg.jpg" />
+            <Trainer />
+            <ContactUs />
         </Fragment>
     )
 

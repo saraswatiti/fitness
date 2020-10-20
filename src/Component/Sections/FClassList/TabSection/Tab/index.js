@@ -7,8 +7,8 @@ import PropTypes from 'prop-types'
 **/
 
 class Tab extends Component {
-    state = {}
     render() {
+
         if (this.props.isSelected) {
             return (
                 <div>

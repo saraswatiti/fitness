@@ -292,7 +292,7 @@ header
   padding-right: 20px;
 }
 
-.header-area .main-nav  .navbar-nav .nav-link {
+.header-area .main-nav .navbar-nav .nav-link {
   display: block;
   font-weight: 500;
   font-size: 13px;
@@ -302,7 +302,6 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  height: 40px;
   line-height: 40px;
   border: transparent;
   letter-spacing: 1px;
@@ -769,6 +768,7 @@ Our Classes
   margin-bottom: 0px;
 }
 #tabs ul li a {
+  cursor: pointer;
   text-transform: capitalize;
   width: 100%;
   padding: 30px 30px;
@@ -994,6 +994,9 @@ trainers
 #trainers .trainer-item ul.social-icons li a {
   color: #232d39;
   transition: all .3s;
+}
+#trainers .trainer-item ul.social-icons li a svg{
+  width: 20px;
 }
 
 #trainers .trainer-item ul.social-icons li a:hover {
