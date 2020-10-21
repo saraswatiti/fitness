@@ -4,6 +4,7 @@ import { HashRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import MainNav from './Component/Header/MainNav';
 import Loader from './Component/Common/Loader';
+import Footer from './Component/Footer';
 const HomePage = React.lazy(() => import("../src/Component/HomePage"));
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         }>
           <MainNav />
           <HomePage />
+          <Footer />
         </React.Suspense>
       </div>
     </HashRouter>
