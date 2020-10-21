@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/fitness/static/css/main.8dc253c3.chunk.css",
-    "main.js": "/fitness/static/js/main.f5b11c13.chunk.js",
-    "main.js.map": "/fitness/static/js/main.f5b11c13.chunk.js.map",
-    "runtime-main.js": "/fitness/static/js/runtime-main.c2ad6533.js",
-    "runtime-main.js.map": "/fitness/static/js/runtime-main.c2ad6533.js.map",
+    "main.js": "/fitness/static/js/main.9dd187fa.chunk.js",
+    "main.js.map": "/fitness/static/js/main.9dd187fa.chunk.js.map",
+    "runtime-main.js": "/fitness/static/js/runtime-main.3a1f7ba3.js",
+    "runtime-main.js.map": "/fitness/static/js/runtime-main.3a1f7ba3.js.map",
     "static/css/2.11829350.chunk.css": "/fitness/static/css/2.11829350.chunk.css",
-    "static/js/2.a72f97b8.chunk.js": "/fitness/static/js/2.a72f97b8.chunk.js",
-    "static/js/2.a72f97b8.chunk.js.map": "/fitness/static/js/2.a72f97b8.chunk.js.map",
-    "static/js/3.7fa6bcb4.chunk.js": "/fitness/static/js/3.7fa6bcb4.chunk.js",
-    "static/js/3.7fa6bcb4.chunk.js.map": "/fitness/static/js/3.7fa6bcb4.chunk.js.map",
-    "static/js/4.98bab038.chunk.js": "/fitness/static/js/4.98bab038.chunk.js",
-    "static/js/4.98bab038.chunk.js.map": "/fitness/static/js/4.98bab038.chunk.js.map",
+    "static/js/2.821042c4.chunk.js": "/fitness/static/js/2.821042c4.chunk.js",
+    "static/js/2.821042c4.chunk.js.map": "/fitness/static/js/2.821042c4.chunk.js.map",
+    "static/js/3.5b203bb5.chunk.js": "/fitness/static/js/3.5b203bb5.chunk.js",
+    "static/js/3.5b203bb5.chunk.js.map": "/fitness/static/js/3.5b203bb5.chunk.js.map",
+    "static/js/4.5ada56f3.chunk.js": "/fitness/static/js/4.5ada56f3.chunk.js",
+    "static/js/4.5ada56f3.chunk.js.map": "/fitness/static/js/4.5ada56f3.chunk.js.map",
     "index.html": "/fitness/index.html",
-    "precache-manifest.280bb6d08fca264c258ad8386ec640db.js": "/fitness/precache-manifest.280bb6d08fca264c258ad8386ec640db.js",
+    "precache-manifest.f05ab8f4c0ba91da5351cf663a9839fc.js": "/fitness/precache-manifest.f05ab8f4c0ba91da5351cf663a9839fc.js",
     "service-worker.js": "/fitness/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/fitness/static/css/2.11829350.chunk.css.map",
     "static/css/main.8dc253c3.chunk.css.map": "/fitness/static/css/main.8dc253c3.chunk.css.map",
-    "static/js/2.a72f97b8.chunk.js.LICENSE.txt": "/fitness/static/js/2.a72f97b8.chunk.js.LICENSE.txt",
+    "static/js/2.821042c4.chunk.js.LICENSE.txt": "/fitness/static/js/2.821042c4.chunk.js.LICENSE.txt",
     "static/media/contact-bg.jpg": "/fitness/static/media/contact-bg.31cb05f3.jpg",
     "static/media/cta-bg.jpg": "/fitness/static/media/cta-bg.f042c2ac.jpg",
     "static/media/first-trainer.jpg": "/fitness/static/media/first-trainer.7c2ab25d.jpg",
@@ -32,10 +32,10 @@
     "static/media/training-image-04.jpg": "/fitness/static/media/training-image-04.dd1df8f4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2ad6533.js",
+    "static/js/runtime-main.3a1f7ba3.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.a72f97b8.chunk.js",
+    "static/js/2.821042c4.chunk.js",
     "static/css/main.8dc253c3.chunk.css",
-    "static/js/main.f5b11c13.chunk.js"
+    "static/js/main.9dd187fa.chunk.js"
   ]
 }
