@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import { useState } from 'react';
 import { Container, Row, Col, Navbar, Nav } from 'react-bootstrap'
 
 /**
@@ -7,8 +8,22 @@ import { Container, Row, Col, Navbar, Nav } from 'react-bootstrap'
 **/
 
 const MainNav = (props) => {
+    const [isSticky, setSticky] = useState(false);
+    const [position, setPosition] = useState(0);
+    const handleScroll = () => {
+        setPosition(document.body.getBoundingClientRect().top);
+        setSticky(document.body.getBoundingClientRect().top < position);
+
+    };
+    useEffect(() => {
+        window.addEventListener('scroll', handleScroll);
+
+        return () => {
+            window.removeEventListener('scroll', () => handleScroll);
+        };
+    }, []);
     return (
-        <header className="header-area header-sticky">
+        <header className={`header-area header-sticky ${isSticky ? 'background-header' : ''}`}>
             <Container>
                 <Row>
                     <Col md={12}>

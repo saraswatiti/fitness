@@ -1,6 +1,7 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import SectionTitle from '../../Common/SectionTitle'
+import ScheduleCls from './ScheduleCls'
 
 /**
 * @author
@@ -17,6 +18,9 @@ const Schedule = ({ Schedulebg }) => {
                         <SectionTitle darkbg="dark-bg" Stitle="CLASSES SCHEDULE" tIcon="line-dec.png"
                             Tdescription="Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu." />
                     </Col>
+                </Row>
+                <Row>
+                    <ScheduleCls />
                 </Row>
             </Container>
         </section >
