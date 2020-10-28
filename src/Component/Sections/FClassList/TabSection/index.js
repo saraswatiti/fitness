@@ -63,7 +63,7 @@ class TabSection extends Component {
                                 amet. Aliquam pharetra, augue vel cursus porta, nisi tortor vulputate sapien, id
                                 scelerisque felis magna id felis. Proin neque metus, pellentesque pharetra semper vel,
                                 accumsan a neque.</p>
-                                <div class="main-button">
+                                <div className="main-button">
                                     <a href="#">View Schedule</a>
                                 </div>
                             </article>
@@ -75,7 +75,7 @@ class TabSection extends Component {
                                 <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
                                 egestas. Aenean ultrices elementum odio ac tempus. Etiam eleifend orci lectus, eget
                                 venenatis ipsum commodo et.</p>
-                                <div class="main-button">
+                                <div className="main-button">
                                     <a href="#">View Schedule</a>
                                 </div>
                             </article>

@@ -9,7 +9,7 @@ import SocialLinks from '../../../Common/SocialLinks'
 
 const TrainerList = ({ TrainerImg, Tpost, TName, TView }) => {
     return (
-        <Col md="4">
+        <Col lg="4" xm="12">
             <div className="trainer-item">
                 <div className="image-thumb">
                     <img src={`${process.env.PUBLIC_URL}/assets/images/${TrainerImg}`} alt="Trainer img" />

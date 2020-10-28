@@ -27,7 +27,7 @@ const MainNav = (props) => {
             <Container>
                 <Row>
                     <Col md={12}>
-                        <Navbar collapseOnSelect className="main-nav">
+                        <Navbar collapseOnSelect className="main-nav" expand="lg">
                             <Navbar.Brand href="#home" className="logo">Training<em> Studio</em></Navbar.Brand>
                             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                             <Navbar.Collapse id="responsive-navbar-nav">

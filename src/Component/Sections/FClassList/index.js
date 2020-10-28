@@ -18,8 +18,8 @@ const FClassList = (props) => {
                             Tdescription="Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu."
                         />
                     </Col>
-                    <TabSection />
                 </Row>
+                <TabSection />
             </Container>
         </section>
     )
